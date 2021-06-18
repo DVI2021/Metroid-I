@@ -78,6 +78,7 @@ El modo en el que hemos estructurado el proyecto ha sido el siguiente:
 	* Ascensor
 	* Solución de bugs
 	* Recopilación de fuentes utilizadas
+	* Grabación y edición del gameplay
 * Victor Velázquez Cabrera (25%)
 	* Búsqueda y preparación de sprites de Samus, energía y explosiones
 	* Cambios de cámaras al pasar a otra sala
